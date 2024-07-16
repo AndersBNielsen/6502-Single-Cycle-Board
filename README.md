@@ -3,7 +3,9 @@
 
 Hook up 5V+GND and the three signals to your 6502 CPU and watch it halt after each instruction - even running at several MHz. No matter if it's an NMOS 6502 from 1975 or a CMOS from 2024. 
 
+You can either order the PCB from JLCPCB (shipping world wide, see below) who kindly sponsored this project or order a ready made board direct from the creator here(shipping to 51 countries): https://www.imania.dk/index.php?cPath=204&sort=5a&language=en
 
+![6502 Single Cycle Board](https://www.imania.dk/mediafiles/images/produkter/ABN-6502-Single-Cycle-Board-front.jpeg)
 
 ## Ordering a PCB worldwide
 This project is kindly sponsored by JLCPCB. They offer cheap, professional looking PCBs and super fast delivery.
